@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Aadii-13
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript.
+-  Hi, I’m @Aadii-13
+-  I’m interested in Java Web Development.
+-  My Javascript is done .
+-  I'm currently learning backend .
 - 📫 How to reach me adi1tyasingh2004@gmail.com.
   
 
